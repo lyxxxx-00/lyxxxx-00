@@ -1,4 +1,4 @@
 ## Hi👋
 <!--## <img width="1000" src="asset/chiikawa.png" alt="chiikawa"> -->
-- 📙 pursuing a degree in Information Systems Management.
+- 📙 recent graduate in Information Systems Management with 1.5 years of experience in Python.
 - ✏️ continuously learning and working on projects.
